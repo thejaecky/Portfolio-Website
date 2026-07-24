@@ -1,0 +1,29 @@
+/*=========================================
+        GLOBAL VARIABLES
+=========================================*/
+
+:root {
+    --primary: #ffffff;
+    --secondary: #a1a1aa;
+    --dark: #050505;
+    --dark-soft: #0b0b0f;
+
+    --accent: #7c3aed;
+    --accent-light: #a855f7;
+
+    --gradient: linear-gradient(135deg, #7c3aed, #2563eb);
+
+    --glass: rgba(255, 255, 255, 0.08);
+    --border: rgba(255, 255, 255, 0.15);
+
+    --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+    --glow: 0 0 50px rgba(124, 58, 237, 0.5);
+
+    --radius-small: 12px;
+    --radius-medium: 24px;
+    --radius-large: 40px;
+
+    --container: 1200px;
+
+    --transition: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
